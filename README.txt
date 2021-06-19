@@ -1,4 +1,8 @@
 # Discord-Account-Dispenser
+
+# ![logo](https://avatars.githubusercontent.com/u/78645652?v=4)
+## credit
+- if youre going to paste from this then please give some credit to the original coder
 This is the official ACCGEN SERV discord bot.
 
 put your token in Data/token.txt
