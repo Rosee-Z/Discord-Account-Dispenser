@@ -12,7 +12,7 @@ from discord.ext import commands
 from discord.ext.commands import Bot
 import pyfiglet
 from pyfiglet import Figlet
-token = open('token.txt', 'r').readline()
+token = open('./Data/token.txt', 'r').readline()
 client = commands.Bot(command_prefix='!')
 client.remove_command('help')
 os.system('cls')
